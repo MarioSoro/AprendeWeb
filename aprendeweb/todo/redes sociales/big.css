@@ -1,0 +1,109 @@
+body			{	width:100%;
+					background:#BDFFFF;
+					margin:0px;
+					-webkit-touch-callout:none;
+					-webkit-user-select:none;
+					-khtml-user-select:none;
+					-moz-user-select:none;
+					-ms-user-select:none;
+					user-select:none;
+					cursor:default;
+				}
+				
+div.top			{	width:70%;
+					max-width:1000px;
+					height:19.5vh;
+					background:#BDFFFF;
+					margin:auto;
+					border:0px solid black;
+					text-align:center;
+					line-height:17vh;
+					font-family:century gothic;
+					font-size:13vh;
+					color:#1A3E50;
+					border-bottom:0.5vh solid #1A3E50;
+					text-shadow: 0px 0px 6px rgba(146, 150, 150, 1);
+				}
+				
+div.general		{	width:70%;
+					max-width:1000px;
+					height:75vh;
+					padding-top:5vh;
+					background:white;
+					margin:auto;
+					-webkit-box-shadow: 0px 29px 61px -1px rgba(0,0,0,0.75);
+					-moz-box-shadow: 0px 29px 61px -1px rgba(0,0,0,0.75);
+					box-shadow: 0px 29px 61px -1px rgba(0,0,0,0.75);
+				}
+				
+a:link			{	text-decoration:none;
+					color:black;
+				}
+				
+a:visited		{	text-decoration:none;
+					color:black;
+				}
+				
+a:active		{	text-decoration:none;
+					color:black;
+				}
+				
+a:hover			{	text-decoration:none;
+					color:black;
+				}
+				
+a				{	display:block;
+					text-decoration:none;
+					outline:0;
+				}
+				
+div.contenido	{	width:50%;
+					margin:auto;
+				}
+				
+div.titulo		{	width:100%;
+					height:10vh;						/* JAVA */
+					font-family:century gothic;
+					font-size:40px;						/* JAVA */
+					line-height:10vh;					/* JAVA */
+					text-align:center;
+					color:#1A3E50;
+				}
+				
+/* --------- EDITAR APARTIR DE AQUÍ --------- */
+/* --------- EDITAR APARTIR DE AQUÍ --------- */
+/* --------- EDITAR APARTIR DE AQUÍ --------- */
+/* --------- EDITAR APARTIR DE AQUÍ --------- */
+				
+div.ap1			{	margin:auto;						/* JAVA */
+					margin-top:5vh;
+					text-align:center;
+					border:0px solid black;
+					display:block;
+					font-family:century gothic;
+					font-size:20px;
+					padding-bottom:1px;
+				}
+				
+.ap1:hover		{	-webkit-box-shadow: inset 0px -7px 0px -3px rgba(26,62,80,1);
+					-moz-box-shadow: inset 0px -7px 0px -3px rgba(26,62,80,1);
+					box-shadow: inset 0px -7px 0px -3px rgba(26,62,80,1);
+				}
+				
+div.ap2			{	float:right;						/* JAVA */
+					margin-top:5vh;
+					text-align:center;
+					border:0px solid black;
+					display:block;
+					font-family:century gothic;
+					font-size:20px;
+				}
+				
+.ap2:hover		{	-webkit-box-shadow: inset 0px -7px 0px -3px rgba(26,62,80,1);
+					-moz-box-shadow: inset 0px -7px 0px -3px rgba(26,62,80,1);
+					box-shadow: inset 0px -7px 0px -3px rgba(26,62,80,1);
+				}
+				
+img.apartados	{	width:256px;						/* JAVA */
+					height:256px;						/* JAVA */
+				}
